@@ -1,0 +1,19 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*.db
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit secrets
+.env
+.secrets.toml
+
+# OS files
+.DS_Store
+
+
+*.csv
+*.txt
